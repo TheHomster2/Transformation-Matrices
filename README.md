@@ -1,2 +1,2 @@
-# ditto
-Ditto can also use transform and has the ability imposter
+# Transformation Matrices
+Utilize matrices to transform graphics across planes
